@@ -38,3 +38,9 @@ Contributions are welcome. If you have suggestions or wish to contribute to the 
 3.  Commit your Changes (`git commit -m 'Add some NewFeature'`).
 4.  Push to the Branch (`git push origin feature/NewFeature`).
 5.  Open a Pull Request.
+
+## Authorship
+
+Written and edited by Gemini 2.5 Pro Preview in Google AI Studio. Final revisions made by me.
+
+I'm too lazy lol
